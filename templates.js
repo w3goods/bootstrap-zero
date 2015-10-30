@@ -1461,5 +1461,39 @@ module.exports =
         avatar:"http://www.designbootstrap.com/wp-content/uploads/2014/12/logo.png",
         license:"MIT",
         licenseUrl:"http://www.designbootstrap.com/licenses/"
+    },
+    {
+        name:"Knight",
+        title:"Knight",
+        short:"Multipurpose Single Page",
+        full:"Knight is a clean, modern and multipurpose Bootstrap theme. Ideal for portfolio or personal or landing page.",
+        tags:["w3goods","theme","one-page","background-image","flat","landing"],
+        imgUrl:"http://w3goods.com/wp-content/uploads/2014/10/Knight-W3Goods.jpg",
+        downloadUrl:"http://w3goods.com/wp-content/uploads/knight-demo/Knight-Bootstrap-Theme.zip",
+        sourceUrl:"http://w3goods.com/freebies/knight-free-bootstrap-theme/",
+        previewUrl:"http://www.w3goods.com/wp-content/uploads/knight-demo/",
+        author:"W3Goods",
+        authorUrl:"http://w3goods.com",
+        bootstrapVersion:"3.0.3",
+        license:"freeware",
+        avatar:"http://w3goods.com/wp-content/uploads/2015/04/W3Goods-Logo-V4-1.png",
+        licenseUrl:"http://w3goods.com/license/"
+    },
+    {
+        name:"Butterfly",
+        title:"Butterfly",
+        short:"Multipurpose Single Page",
+        full:"Butterfly is a clean Bootstrap theme created for corporate or small busines landing pages in mind.",
+        tags:["w3goods","theme","one-page","clean","flat","landing"],
+        imgUrl:"http://w3goods.com/wp-content/uploads/2014/11/Butterfly-Free-Theme-W3Goods.jpg",
+        downloadUrl:"http://www.w3goods.com/wp-content/uploads/butterfly-demo/Butterfly-Bootstrap-Theme.zip",
+        sourceUrl:"http://w3goods.com/freebies/butterfly-free-bootstrap-theme/",
+        previewUrl:"http://www.w3goods.com/wp-content/uploads/butterfly-demo/",
+        author:"W3Goods",
+        authorUrl:"http://w3goods.com",
+        bootstrapVersion:"3.0.3",
+        license:"freeware",
+        avatar:"http://w3goods.com/wp-content/uploads/2015/04/W3Goods-Logo-V4-1.png",
+        licenseUrl:"http://w3goods.com/license/"
     }
 ]
